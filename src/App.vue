@@ -125,6 +125,7 @@ export default {
     height: 20px;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
+    width: auto;
 }
 
 .brandLogo__title {
