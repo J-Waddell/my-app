@@ -26,9 +26,7 @@
               </li>
               <li class="navbar__links__item">
                 <a class="navbar__links__link">Contact</a>
-                <ul class="langsDropdown__menu">
-
-                </ul>
+                <ul class="langsDropdown__menu"></ul>
               </li>
             </ul>
           </nav>
